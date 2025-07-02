@@ -35,7 +35,7 @@ I’m **Trang**, a passionate developer who loves building practical, beautiful 
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" ><br>TypeScript</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" ><br>React</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" ><br>Redux</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" ><br>REST</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" ><br>RESTApi</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" ><br>MySQL</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" ><br>Docker</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" ><br>Nginx</td>
@@ -43,14 +43,14 @@ I’m **Trang**, a passionate developer who loves building practical, beautiful 
 </tr>
 </table>
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thuytrang10072001&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuytrang10072001&layout=compact&theme=radical" width="48%">
-</div>
+</div> -->
 
 ---
 
@@ -62,7 +62,7 @@ I’m **Trang**, a passionate developer who loves building practical, beautiful 
 
 ---
 
-## ✨ Quote yêu thích
+## ✨ Favorite Quote 
 > "Stay hungry, stay foolish." — Steve Jobs  
 
 ---
