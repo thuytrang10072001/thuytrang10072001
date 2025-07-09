@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lethithuytrang20070805@gmail.com">
+  <a href="mailto:lethithuytrang20070805@gmail.com" targer="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://https://www.linkedin.com/in/trang-l%C3%AA-41a36b35a">
+  <a href="https://https://www.linkedin.com/in/trang-l%C3%AA-41a36b35a" targer="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio-tranny.vercel.app">
+  <a href="https://portfolio-tranny.vercel.app" targer="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
